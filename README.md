@@ -13,5 +13,48 @@ Add your timetable
 Execute the program
 
 # CODE
-
+```
+<html>
+  <head>
+  </head>
+  <body> 
+  <img src=<img src=C:\Users\admin\Desktop\git3\ODD2023-WT-Ex-03-Timetable\template.html width="800" height="500">
+  <table border="2" width=50% height= 10% bordercolor="blue" >
+    <tr> 
+    <th colspan ="10">TIMETABLE</th>  
+    </tr> 
+    <tr> 
+    <th colspan="2">Reference Number:</th> 
+    <th  style="text-align: left" colspan="2">23013613</th> 
+    <th  style="text-align:right" colspan="2"> Name:</th> 
+    <th colspan="2">Kala</th>
+    
+    </tr> 
+    <tr> 
+    <td style="text-align: center";>DAYS</td> 
+    <td  style="text-align: center";>1</td>
+    <td  style="text-align: center";>2</td>
+    <td  style="text-align: center";>3</td> 
+    <td  style="text-align: center";>4</td>
+    <td rowspan="2"  style="text-align: center";>  lunch break </td></td>
+    <td  style="text-align: center";>5</td>
+    <td  style="text-align: center";>6</td>
+    </tr> 
+    <tr> 
+    <td style="text-align: center";>MONDAY</td> 
+    <td style="text-align: center">19AI401/FacultyName</td>
+    <td style="text-align: center">English</td>
+    <td style="text-align: center">Statistics</td>
+    <td style="text-align: center">Banking</td> 
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">EP</td>
+    
+    
+    </tr> 
+     
+    
+  </body>
+</html>
+```
 # OUPUT
+![Screenshot 2023-11-15 052502](https://github.com/Rsriram13/ODD2023-WT-Ex-03-Timetable/assets/145742823/7e065b71-75a8-446e-aee4-98d67d3cf489)
